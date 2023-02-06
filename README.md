@@ -28,3 +28,4 @@ The following animation demonstrates the application functionality:
 
 ![A user clicks on slots on the color-coded calendar and edits the events.](./images/05-third-party-apis-homework-demo.gif)
 
+https://sinthiya1.github.io/Work-Day-Scheduler/
